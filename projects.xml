@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+    <project>
+        <title>Science and Math Learning Website</title>
+        <description>A website made to increase science and math proficiency in junior high level through interactive media.</description>
+        <date>2028</date>
+    </project>
+
+    <project>
+        <title>Ube Brigadeiro Cake</title>
+        <description>Crafting an original Filipino-Brazilian dessert with ube as the main flavor profile.</description>
+        <date>2027</date>
+    </project>
+
+    <project>
+        <title>Scandinavian folk art-inspired painting</title>
+        <description>A large painting inspired by Scandinavian folk art techniques and elements with Philippine motif.</description>
+        <date>2027</date>
+    </project>
+</projects>
